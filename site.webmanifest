@@ -1,0 +1,19 @@
+{
+    "name": "AniHentai",
+    "short_name": "AniHentai",
+    "icons": [
+        {
+            "src": "https://i.imgur.com/wzLr6jp.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://i.imgur.com/Oul7MV4.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#0E0E0E",
+    "background_color": "transparent",
+    "display": "standalone"
+}
